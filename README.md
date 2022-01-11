@@ -26,4 +26,5 @@ Second Workshop on 3D Reconstruction Meets Semantics, ECCV, 2018
 Multi-view Convolutional Neural Networks for 3D Shape Recognition  
 Hang Su, Subhransu Maji, Evangelos Kalogerakis, and Erik Learned-Miller,  
 International Conference on Computer Vision, ICCV, 2015  
-如需要数据或者存在版权问题，请联系：574371242@qq.com
+  
+如需要完整数据集或者存在版权问题，请联系：574371242@qq.com
